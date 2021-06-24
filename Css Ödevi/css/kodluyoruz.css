@@ -1,0 +1,22 @@
+.links nav{
+    float: left;
+}
+.menu-link{
+    padding: 30px;
+}
+a {
+    text-decoration: none; /* linklerin altındaki çizgilerin kaldırılması */
+}
+
+.categories {
+    list-style-position: inside; /*Anasayfadaki listeyi ortalamak için */
+
+}
+
+.books{
+    list-style-position: inside;
+    font-size: 20px;
+}
+h2 {
+    color:rgb(72, 212, 72);
+}
